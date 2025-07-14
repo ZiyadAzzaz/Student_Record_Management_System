@@ -91,11 +91,25 @@ It demonstrates how to work with structures, arrays, loops, and functions in a c
 
 ## 🪪 License
 
-This project is licensed under the **MIT License**.
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-You are free to **use, modify, and distribute** this software under the terms of the license.
+This project is licensed under the terms of the **MIT License**.
+
+You are free to:
+
+- ✅ **Use** this code for personal or commercial purposes
+- ✅ **Modify** and adapt it to your needs
+- ✅ **Distribute** it as you wish
+
+**Conditions:**
+
+- You **must include** the copyright notice and license text in any copies or substantial portions of the Software.
+- This project is provided **"as is"**, without warranty of any kind.
+
+See the [LICENSE](LICENSE) file for full license details.
 
 © 2025 Ziyad Azzaz
+
 
 ---
 
