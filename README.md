@@ -17,6 +17,14 @@ This application allows you to:
 All data is stored in memory (no files), supporting up to **100 student records**.
 
 ---
+---
+## 📂 Source Code
+
+You can view the complete source code here:
+
+🔗 [View `student_record.c` on GitHub](https://github.com/ZiyadAzzaz/Student_Record_Management_System/blob/main/student_record.c)
+
+---
 
 ## 📋 Features
 
