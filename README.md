@@ -17,7 +17,10 @@ This application allows you to:
   
 **[![View Source](https://img.shields.io/badge/View%20Code-student_record.c-blue?style=for-the-badge)](https://github.com/ZiyadAzzaz/Student_Record_Management_System/blob/main/student_record.c)**
 
-  
+
+👉 **[View the complete C source code here](https://github.com/ZiyadAzzaz/Student_Record_Management_System/blob/main/student_record.c)**
+
+
 All data is stored in memory (no files), supporting up to **100 student records**.
 
 ---
