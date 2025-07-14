@@ -47,3 +47,60 @@ Each student record includes:
 | Age     | Integer | Student's age                    |
 | Grades  | Float[] | Array of 3 grades per student    |
 
+---
+
+## 🚀 How to Compile and Run
+
+1. **Clone this repository:**
+
+   ```bash
+   git clone https://github.com/ZiyadAzzaz/Student_Record_Management_System.git
+   cd Student_Record_Management_System
+   ```
+
+2. **Compile the source code:**
+
+   ```bash
+   gcc -o student_record student_record.c
+   ```
+
+3. **Run the program:**
+
+   ```bash
+   ./student_record
+   ```
+
+---
+
+## 🎯 Future Enhancements
+
+- 💾 Save and load records from a file
+- 📈 Sort students by name, ID, or grade
+- 🛡️ Input validation improvements
+- 📊 Calculate averages and display statistics
+- 🧠 Implement the "Define New Function" option
+
+---
+
+## 💡 Inspiration
+
+This project was created to help students and beginners **learn C programming** through a practical example.  
+It demonstrates how to work with structures, arrays, loops, and functions in a clear, maintainable way.
+
+---
+
+## 🪪 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute it.
+Copyright (c) 2025 [Ziyad Azzaz]
+---
+
+## 👨‍💻 Author
+
+**[Ziyad Azzaz]**  
+🔗 GitHub: [ZiyadAzzaz](https://github.com/ZiyadAzzaz)
+
+---
+
+> ✨ *Empowering learners to master C programming — one project at a time.*
