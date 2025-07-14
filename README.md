@@ -93,7 +93,7 @@ It demonstrates how to work with structures, arrays, loops, and functions in a c
 
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute it.
-Copyright (c) 2025 [Ziyad Azzaz]
+© 2025 Ziyad Azzaz
 ---
 
 ## 👨‍💻 Author
